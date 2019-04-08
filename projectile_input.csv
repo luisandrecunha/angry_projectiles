@@ -1,0 +1,6 @@
+name,initial_speed,initial_angle,drag_coefficent,diameter,ref_area,mass,obj_type
+Andy,260,45,0.5,0.075,0.785,0.145,0
+Alex,250,20,0,0,0,0,2
+Luis,219,30,0,0,0,0,1
+Hongling,100,85,0,0,0,0,3
+Superman,177,30,0,0,0,0,2
